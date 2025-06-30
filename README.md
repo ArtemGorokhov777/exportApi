@@ -1,1 +1,2 @@
 # exportApi
+npm install
